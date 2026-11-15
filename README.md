@@ -6,6 +6,8 @@
   <p><strong>A1NT</strong> - a native, modular OSINT investigation platform built for intelligence gathering, analysis, and reporting.</p>
 </div>
 
+---
+
 <table width="100%">
   <tr>
     <th width="50%">Core Technologies</th>
@@ -34,10 +36,8 @@
 </tr>
 </table>
 
----
 
-
-## Development Roadmap
+### Development Roadmap
 
 **Phase 1 — Foundation**
 - [x] Establish .NET / Avalonia project
