@@ -14,15 +14,10 @@
 
 
 
-## Technology Stack
 
-| Core Technologies | Data & Infrastructure (Planned) |
+| Core Technologies | Data & Infrastructure |
 |:---:|:---:|
-| [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) | [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/) |
-| [![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/) | [![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/) |
-| [![Avalonia](https://img.shields.io/badge/Avalonia_UI-8B44AC?style=for-the-badge)](https://avaloniaui.net/) | [![JSON](https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/) |
-| [![XAML](https://img.shields.io/badge/XAML-0078D4?style=for-the-badge)](https://docs.avaloniaui.net/) | [![SkiaSharp](https://img.shields.io/badge/SkiaSharp-0F9D58?style=for-the-badge)](https://github.com/mono/SkiaSharp) |
-| [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | [![Serilog](https://img.shields.io/badge/Serilog-303030?style=for-the-badge)](https://serilog.net/) |
+| [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/) [![Avalonia](https://img.shields.io/badge/Avalonia_UI-8B44AC?style=for-the-badge)](https://avaloniaui.net/) [![XAML](https://img.shields.io/badge/XAML-0078D4?style=for-the-badge)](https://docs.avaloniaui.net/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/) [![JSON](https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/) [![SkiaSharp](https://img.shields.io/badge/SkiaSharp-0F9D58?style=for-the-badge)](https://github.com/mono/SkiaSharp) [![Serilog](https://img.shields.io/badge/Serilog-303030?style=for-the-badge)](https://serilog.net/) |
 
 
 ## Development Roadmap
