@@ -4,20 +4,36 @@
 
 
 <div align="center">
-  <p>A1NT - A native desktop client, modular OSINT investigation platform built for intelligence gathering, analysis, and reporting.</p>
+  <p>A1NT - a native, modular OSINT investigation platform built for intelligence gathering, analysis, and reporting.</p>
 </div>
 
 
 ---
 
 
+<table width="100%">
+  <tr>
+    <th width="50%">Core Technologies</th>
+    <th width="50%">Data & Infrastructure (Planned)</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"></a>
+      <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+      <a href="https://avaloniaui.net/"><img src="https://img.shields.io/badge/Avalonia_UI-8B44AC?style=for-the-badge"></a>
+      <a href="https://docs.avaloniaui.net/"><img src="https://img.shields.io/badge/XAML-0078D4?style=for-the-badge"></a>
+      <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+      <a href="https://learn.microsoft.com/en-us/ef/core/"><img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+      <a href="https://www.json.org/"><img src="https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white"></a>
+      <a href="https://github.com/mono/SkiaSharp"><img src="https://img.shields.io/badge/SkiaSharp-0F9D58?style=for-the-badge"></a>
+      <a href="https://serilog.net/"><img src="https://img.shields.io/badge/Serilog-303030?style=for-the-badge"></a>
+    </td>
+  </tr>
+</table>
 
-
-
-
-| Core Technologies | Data & Infrastructure |
-|:---:|:---:|
-| [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/) [![Avalonia](https://img.shields.io/badge/Avalonia_UI-8B44AC?style=for-the-badge)](https://avaloniaui.net/) [![XAML](https://img.shields.io/badge/XAML-0078D4?style=for-the-badge)](https://docs.avaloniaui.net/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/) [![JSON](https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/) [![SkiaSharp](https://img.shields.io/badge/SkiaSharp-0F9D58?style=for-the-badge)](https://github.com/mono/SkiaSharp) [![Serilog](https://img.shields.io/badge/Serilog-303030?style=for-the-badge)](https://serilog.net/) |
 
 
 ## Development Roadmap
