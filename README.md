@@ -2,14 +2,9 @@
 
 ---
 
-
 <div align="center">
   <p><strong>A1NT</strong> - a native, modular OSINT investigation platform built for intelligence gathering, analysis, and reporting.</p>
 </div>
-
-
----
-
 
 <table width="100%">
   <tr>
@@ -32,6 +27,11 @@
       <a href="https://serilog.net/"><img src="https://img.shields.io/badge/Serilog-303030?style=for-the-badge"></a>
     </td>
   </tr>
+<tr>
+  <td colspan="2" align="center">
+    <img src="https://img.shields.io/badge/Status-Early_Development-orange?style=for-the-badge" alt="Development Status">
+  </td>
+</tr>
 </table>
 
 
